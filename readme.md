@@ -42,7 +42,7 @@ To process the IF data using a GNSS SDR and generate the initial acquisition res
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Opensky%20Acquisition%20Result.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/Opensky%20Acquisition%20Result.png" width="800">
     <figcaption>
       <b>Fig. 1</b><br> Acquisition result of OpenSky data.
     </figcaption>
@@ -51,7 +51,7 @@ To process the IF data using a GNSS SDR and generate the initial acquisition res
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Urban%20Acquisition%20Result.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/Urban%20Acquisition%20Result.png" width="800">
     <figcaption>
       <b>Fig. 2</b><br> Acquisition result of Urban data.
     </figcaption>
@@ -70,49 +70,49 @@ The tracking performance for the OpenSky and Urban data is shown in **Fig. 3** a
    
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF3.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF3.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF4.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF4.png" width="800">
    </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF16.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF16.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF22.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF22.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF26.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF26.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF27.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF27.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF31.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF31.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenSky_ACF32.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenSky_ACF32.png" width="800">
     <figcaption>
       <b>Fig. 3</b><br> ACF for the OpenSky data.
     </figcaption>
@@ -121,31 +121,31 @@ The tracking performance for the OpenSky and Urban data is shown in **Fig. 3** a
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Urban_ACF1.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/Urban_ACF1.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Urban_ACF3.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/Urban_ACF3.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Urban_ACF7.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/Urban_ACF7.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Urban_ACF11.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/Urban_ACF11.png" width="800">
   </figure>
 </div>
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Urban_ACF18.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/Urban_ACF18.png" width="800">
     <figcaption>
       <b>Fig. 4</b><br> ACF for the Urban data.
     </figcaption>
@@ -222,45 +222,45 @@ By comparing the processing results of Urban and OpenSky, it can be observed tha
 ## OpenSky Position
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyPosWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyPosWLS.png" width="800">
     <figcaption><b>Fig. 5</b></figcaption>
   </figure>
   
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyPosVarWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyPosVarWLS.png" width="800">
     <figcaption><b>Fig. 6</b></figcaption>
   </figure>
 
 ## OpenSky Velocity  
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyVelWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyVelWLS.png" width="800">
     <figcaption><b>Fig. 7</b></figcaption>
   </figure>
   
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyVelVarWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyVelVarWLS.png" width="800">
     <figcaption><b>Fig. 8</b></figcaption>
   </figure>
   
 ## Urbn Position  
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanPosWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanPosWLS.png" width="800">
     <figcaption><b>Fig. 9</b></figcaption>
   </figure>
   
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanPosVarWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanPosVarWLS.png" width="800">
     <figcaption><b>Fig. 10</b></figcaption>
   </figure>
  
 ## Urban Velocity   
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanVelWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanVelWLS.png" width="800">
     <figcaption><b>Fig. 11</b></figcaption>
   </figure>
 
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanVarWLS.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanVarWLS.png" width="800">
     <figcaption><b>Fig. 12</b></figcaption>
   </figure>
 </div>
@@ -273,7 +273,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 ## OpenSky Position
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyPosEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyPosEKF.png" width="800">
     <figcaption>
       <b>Fig. 13</b>
     </figcaption>
@@ -282,7 +282,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyPosVarEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyPosVarEKF.png" width="800">
     <figcaption>
       <b>Fig. 14</b>
     </figcaption>
@@ -292,7 +292,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 ## OpenSky Velocity 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyVelEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyVelEKF.png" width="800">
     <figcaption>
       <b>Fig. 15</b>
     </figcaption>
@@ -301,7 +301,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/OpenskyVelVarEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/OpenskyVelVarEKF.png" width="800">
     <figcaption>
       <b>Fig. 16</b>
     </figcaption>
@@ -312,7 +312,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 ## Urban Position
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanPosEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanPosEKF.png" width="800">
     <figcaption>
       <b>Fig. 17</b>
     </figcaption>
@@ -321,7 +321,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanPosVarEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanPosVarEKF.png" width="800">
     <figcaption>
       <b>Fig. 18</b>
     </figcaption>
@@ -331,7 +331,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 ## Urban Velocity
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanVelEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanVelEKF.png" width="800">
     <figcaption>
       <b>Fig. 19</b>
     </figcaption>
@@ -340,7 +340,7 @@ In this task, we develop an Extended Kalman Filter (EKF) using pseudorange and D
 
 <div align="center">
   <figure>
-    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/UrbanVarEKF.png" width="800">
+    <img src="https://github.com/HANG0413/AAE6102-Assignment1/blob/master/Figure/UrbanVarEKF.png" width="800">
     <figcaption>
       <b>Fig. 20</b>
     </figcaption>
